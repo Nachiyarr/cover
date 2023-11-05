@@ -26,6 +26,7 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+![image](https://github.com/Nachiyarr/cover/assets/113497340/9af0bae6-4abd-487b-ba38-7613142f332e)
 
 
 ## HTML VALIDATOR:
